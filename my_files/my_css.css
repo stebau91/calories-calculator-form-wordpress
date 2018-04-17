@@ -1,0 +1,64 @@
+.error{
+    	padding: 5px 9px;
+    	border: 1px solid red;
+	color: red;
+    	border-radius: 3px;
+}
+ 
+.success{
+    	padding: 5px 9px;
+    	border: 1px solid green;
+    	color: green;
+    	border-radius: 3px;
+}
+  			
+  			
+.dish{
+    	width: 360px !important;
+    	display: inline-block !important; 
+    	margin-right: 40px !important;
+    	padding-right: 30px !important;
+}
+  			
+.quantity{
+    	width: 270px !important;
+    	display: inline-block !important;
+    	padding-right: 30px !important;
+}
+  			
+.entry-content{
+  	width: 100% !important;
+}
+  			
+.submit {
+  	margin: auto !important;
+        width: 100% !important;
+}
+  			
+p {
+  	display: inline-block !important;
+}
+  			
+.plate_label{
+  	display: inline-block !important;
+  	width: 50px !important;
+}
+  			
+.quantity_label{
+  	display: inline-block;
+  	width: 90px !important;
+}
+ 
+form span{
+    	color: red;
+}
+
+.post-57 {
+    margin-left: 200px !important;
+    margin-right: 200px !important;
+}
+
+.main {
+    margin-left: 200px !important;
+    margin-right: 200px !important;
+}
