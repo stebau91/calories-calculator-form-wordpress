@@ -1,0 +1,137 @@
+div#content.site-content clr {
+	width: 80% !important;
+	position: static !important;
+	margin: 30px !important;
+	display: block !important;
+	margin-left: auto !important;
+	margin-right: auto !important;
+	
+}
+
+.error{
+    	padding: 5px 9px;
+    	border: 1px solid red;
+	color: red;
+    	border-radius: 3px;
+}
+ 
+.success{
+    	padding: 5px 9px;
+    	border: 1px solid green;
+    	color: green;
+    	border-radius: 3px;
+}
+  			
+  			
+.dish{
+    	width: 260px !important;
+    	display: inline-block !important; 
+    	margin-bottom: 10px !important;
+	position: static !important;
+}
+  			
+.quantity{
+    	width: 220px !important;
+    	display: inline-block !important;
+    	padding-right: 30px !important;
+    	margin-bottom: 20px !important;
+}
+  			
+.entry-content{
+  	width: 100% !important;
+}
+  			
+.submit {
+  	margin: auto !important;
+        width: 100% !important;
+}
+  			
+p {
+  	display: inline-block !important;
+}
+  			
+.plate_label{
+  	display: inline-block !important;
+  	width: 50px !important;
+}
+  			
+.quantity_label{
+  	display: inline-block;
+  	width: 90px !important;
+}
+ 
+form span{
+    	color: red;
+}
+
+.post-57 {
+    margin-left: 200px !important;
+    margin-right: 200px !important;
+}
+
+.main {
+    margin-left: 200px !important;
+    margin-right: 200px !important;
+}
+.ui-autocomplete {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 1000;
+  float: left;
+  display: none;
+  min-width: 200px !important;
+  padding: 0px 10px;
+  margin: 0 0 10px 25px;
+  list-style: none;
+  background-color: #f5f8f9;
+  font-family: 'Ubuntu', sans-serif;
+  text-transform: initial !important;
+  font-size: 14px;
+}
+
+.ui-menu-item {
+  border-bottom: 1px solid #b4c4d4 !important;
+  padding-bottom: 10px !important;
+  padding-top: 10px !important;
+}
+
+.ui-menu-item > a.ui-corner-all {
+  display: block;
+  clear: both;
+  font-weight: normal;
+  line-height: 25px;
+  color: #0a0a0a;
+  white-space: nowrap;
+  text-decoration: none;
+  text-transform: lowercase !important;
+}
+
+.ui-menu-item > a.ui-corner-all:first-letter {
+  text-transform: uppercase;
+}
+
+.ui-state-hover,
+.ui-state-active {
+  color: #ffffff;
+  text-decoration: none;
+  background-color: #0088cc;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  border-radius: 0px;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  background-image: none;
+}
+
+.ui-state-highlight a {
+  font-weight: bold;
+  color: #002e5b !important;
+}
+
+.ui-state-highlight {
+  font-weight: bold;
+  color: #002e5b !important;
+}
+
+
